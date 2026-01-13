@@ -1,6 +1,6 @@
 # Moz-DA-PA-data-scraper-Api-for-bulk
 Cheapest api across internet for scrape real time fresh moz data like DA, PA, Backlinks, Rank keywords, Spam Score and many more data.
-Get rapid api key from here : https://rapidapi.com/vijay399/api/moz-da-pa-check-api-for-bulk/playground/apiendpoint_bca3b960-632c-453a-aeaf-eed6bb68d95a
+Get rapid api key from here : https://rapidapi.com/vijay399/api/moz-da-pa-check-api-for-bulk/
 <h3>Api usage</h3>
 <pre>
   <code>
